@@ -1,0 +1,4 @@
+Sample speech markdown breaks:
+None and extra weak
+Weak and medium
+Strong and extra strong
