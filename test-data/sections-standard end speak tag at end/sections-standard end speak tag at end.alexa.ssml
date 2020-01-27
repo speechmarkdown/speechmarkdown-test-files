@@ -1,0 +1,9 @@
+<speak>
+<voice name="Kendra">
+Section 1
+</voice>
+<voice name="Brian">
+<lang xml:lang="en-GB">
+Section 2</lang>
+</voice>
+</speak>

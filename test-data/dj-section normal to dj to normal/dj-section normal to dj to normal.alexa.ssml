@@ -1,0 +1,7 @@
+<speak>
+Normal speech.
+<amazon:domain name="music">
+Switching to a music/media announcer.
+</amazon:domain>
+Now back to normal speech.
+</speak>

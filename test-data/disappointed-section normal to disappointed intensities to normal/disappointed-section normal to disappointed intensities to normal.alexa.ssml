@@ -1,0 +1,16 @@
+<speak>
+Normal speech.
+<amazon:emotion name="disappointed" intensity="medium">
+I am disappointed - medium.
+</amazon:emotion>
+<amazon:emotion name="disappointed" intensity="medium">
+I am disappointed - medium.
+</amazon:emotion>
+<amazon:emotion name="disappointed" intensity="low">
+I am disappointed - low.
+</amazon:emotion>
+<amazon:emotion name="disappointed" intensity="high">
+I am disappointed - high.
+</amazon:emotion>
+Now back to normal speech.
+</speak>
