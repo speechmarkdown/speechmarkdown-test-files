@@ -1,0 +1,16 @@
+<speak>
+Normal speech.
+<amazon:emotion name="excited" intensity="medium">
+I am excited - medium.
+</amazon:emotion>
+<amazon:emotion name="excited" intensity="medium">
+I am excited - medium.
+</amazon:emotion>
+<amazon:emotion name="excited" intensity="low">
+I am excited - low.
+</amazon:emotion>
+<amazon:emotion name="excited" intensity="high">
+I am excited - high.
+</amazon:emotion>
+Now back to normal speech.
+</speak>
