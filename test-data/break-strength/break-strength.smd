@@ -1,4 +1,4 @@
 Sample speech markdown breaks:
-None [break:none] and extra weak [break:x-weak]
-Weak [break:weak] and medium [break:medium]
-Strong [break:strong] and extra strong [break:x-strong]
+None [break:"none"] and extra weak [break:"x-weak"]
+Weak [break:"weak"] and medium [break:"medium"]
+Strong [break:"strong"] and extra strong [break:"x-strong"]
