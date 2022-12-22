@@ -1,0 +1,6 @@
+<speak>
+<audio src="https://www.speechmarkdown.org/test.mp3">
+<desc>a cat purring</desc>
+</audio>
+Announcing Speech Markdown.
+</speak>
